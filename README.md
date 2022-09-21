@@ -1,7 +1,9 @@
 # Python
 Python basics
+-------------
 
 Instructions:
+------------
 
 -->Each folder inside this repository shows very basic program segments related to the top referred as folder name
 -->You can refer them as reference
