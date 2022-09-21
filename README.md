@@ -34,7 +34,7 @@ List of Topics
 List of Assignments
 -------------------
 
-(format: assignment_name : sylabus_or_chapters included )
+(format: assignment's_folder_name : sylabus_or_chapters included )
 
 Assignments/Assignment1 : 001,002,003
 
