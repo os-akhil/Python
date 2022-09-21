@@ -11,7 +11,7 @@ Instructions:
 -->after some topics there will be assignments which you can find on the repository
 -->The syllabus of each assignments is shown below
 -->Try it solve it own your own
--->And you can refer the uploaded solutions if neccessary
+-->And you can refer the uploaded solutions in Solutions folder if neccessary
 --if any update is pending, please wait patiently for it to be updated
 
 
