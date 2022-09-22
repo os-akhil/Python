@@ -1,0 +1,93 @@
+There will be 3 questions in every assignment(hard,medium and easy)
+
+
+
+
+Question 1:Easy
+-----------------
+-----------------
+
+    Question
+    --------
+
+       
+    
+    Example input
+    -------------
+
+        
+    
+    Example output
+    --------------
+
+
+
+
+
+
+
+
+Question 2:Medium
+-----------------
+-----------------
+
+    Question
+    --------
+
+       
+    
+    Example input
+    -------------
+
+        
+    
+    Example output
+    --------------
+
+
+
+
+
+
+
+
+
+
+Question 3:HARD
+---------------
+---------------
+
+    Question
+    --------
+
+        Read two numbers as input (numbers must be between 10-100 ) which will give result 6
+                        when we do operation (largest_number)-(smallest_number)
+
+        You should print 5 numbers from them such as,
+
+        number1: first odd number closest to the smallest number
+        number2: first even number closest to the largest number
+        number3: second even number closest to the smallest number
+        number4: second odd number closest to the largest number
+        number5: this number is the result of (sum of all even numbers)-(sum of all odd numbers) 
+                                            
+                                            (do not consider the numbers itself in the process) 
+
+    
+    Example input
+    -------------
+
+        Input1,Input2 :10,16
+    
+    Example output
+    --------------
+
+        number1: 11  ( first odd number closest to the smallest input number,10 )
+        number2: 14  ( first even number closest to the largest input number,16 )
+        number3: 14  ( second even number closest to the smallest input number,10 )
+        number4: 13  ( second odd number closest to the largest number,16 )
+        number5:-13  ( result of (sum of all even numbers)-(sum of all odd numbers)  : (12+14)-(11+13+15) ) 
+
+        
+
+        
